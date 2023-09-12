@@ -9,14 +9,14 @@ application of adversarial search in Lines of Action (LOA) game (AI sessional: o
 - ```src``` directory contains source codes in different packages  
 ## lines of action game  
 ### opening window  
-![alt text](https://github.com/FromSaffronCity/artificial-intelligence/blob/master/offline-3/res/opening.PNG?raw=true)  
+<img src="res/opening.PNG" style="zoom:50%;" />
 ### players selection window  
-![alt text](https://github.com/FromSaffronCity/artificial-intelligence/blob/master/offline-3/res/player-option.PNG?raw=true)  
+<img src="res/player-option.PNG" style="zoom:50%;" />
 ### board selection window  
-![alt text](https://github.com/FromSaffronCity/artificial-intelligence/blob/master/offline-3/res/board-size-option.PNG?raw=true)  
+<img src="res/board-size-option.PNG" style="zoom:50%;" />
 ### gameplay window  
-![alt text](https://github.com/FromSaffronCity/artificial-intelligence/blob/master/offline-3/res/gameplay.PNG?raw=true)  
+<img src="res/gameplay.PNG" style="zoom:50%;" />
 ### white outsmarted black  
-![alt text](https://github.com/FromSaffronCity/artificial-intelligence/blob/master/offline-3/res/game-ended.PNG?raw=true)  
+<img src="res/game-ended.PNG" style="zoom:50%;" />
 ### white won!  
-![alt text](https://github.com/FromSaffronCity/artificial-intelligence/blob/master/offline-3/res/congrats-after-game.PNG?raw=true)  
+<img src="res/congrats-after-game.PNG" style="zoom:50%;" />
